@@ -29,9 +29,8 @@ while($lanjut == true){
     }
 }
 
-echo "Akun berhasil dibuat!\n";
+echo "akun";
 echo "Daftar akun:\n";
-
 
 
 
